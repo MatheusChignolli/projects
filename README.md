@@ -80,6 +80,8 @@ An application that efficiently calculates the distance between two airports wor
 - [Typscript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+- [Babel](https://babeljs.io/)
 - [Material UI](https://mui.com/)
 - [Google Maps API](https://developers.google.com/maps)
 - [Axios](https://axios-http.com/docs/intro)
@@ -88,5 +90,31 @@ An application that efficiently calculates the distance between two airports wor
 - [React Router Dom](https://reactrouter.com/en/main)
 - [Netlify](https://www.netlify.com/)
 - [Air-port-codes API](https://www.air-port-codes.com/)
+
+---
+
+## Covid-19 report
+<img width="1671" alt="Screenshot 2024-02-17 at 14 42 36" src="https://github.com/MatheusChignolli/projects/assets/42878321/4e5679f7-88dc-4773-9edf-932247b8114b">
+
+### 🗒️ Description
+
+[Application link](https://relatoriocovid19.netlify.app/)
+
+An application that provides up-to-date statistics on COVID-19 cases, both in Brazil and globally. Users can easily access and visualize the number of confirmed cases, recoveries, and fatalities, empowering them with essential information to stay informed about the pandemic's status in their country and around the world.
+
+### 💻 Tech stack
+
+- [ReactJs](https://react.dev/)
+- [Typscript](https://www.typescriptlang.org/)
+- [Prettier](https://prettier.io/)
+- [Material UI](https://mui.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Axios](https://axios-http.com/docs/intro)
+- [Sass](https://sass-lang.com/)
+- [Webpack](https://webpack.js.org/)
+- [CanvasJs Charts](https://canvasjs.com/react-charts/)
+- [Lodash](https://lodash.com/)
+- [Styled Components](https://styled-components.com/)
+- [Country flags](https://flagsapi.com/)
 
 ---
