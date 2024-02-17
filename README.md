@@ -20,6 +20,8 @@ A specialized application designed to assist developers in generating various na
 - [ReactJs](https://react.dev/)
 - [Typscript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/pt-BR/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
 - [Material UI](https://mui.com/)
 - [Date FNS](https://date-fns.org/)
 - [i18next](https://www.i18next.com/)
@@ -58,5 +60,33 @@ An application designed to showcase characters from the popular animated series 
 - [MSW](https://mswjs.io/)
 - [Netlify](https://www.netlify.com/)
 - [The Rick and Morty API](https://rickandmortyapi.com/)
+
+---
+
+## Airport distance calculator
+<img width="1661" alt="Screenshot 2024-02-17 at 14 13 13" src="https://github.com/MatheusChignolli/projects/assets/42878321/35ff883a-7ab3-4c55-b4b1-16f195b795cb">
+
+### 🗒️ Description
+
+[Application link](https://airport-distance-calculator-challenge.netlify.app/)
+
+An application that efficiently calculates the distance between two airports worldwide and presents the result in nautical miles. Users input the ICAO codes or airport names, and the application utilizes geospatial data to accurately determine the distance between the specified airports, providing precise measurements for navigation and planning purposes.
+
+### 💻 Tech stack
+
+[Repository link](https://github.com/MatheusChignolli/airports-distance-calculator)
+
+- [ReactJs](https://react.dev/)
+- [Typscript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Prettier](https://prettier.io/)
+- [Material UI](https://mui.com/)
+- [Google Maps API](https://developers.google.com/maps)
+- [Axios](https://axios-http.com/docs/intro)
+- [Debounce](https://github.com/sindresorhus/debounce#readme)
+- [Tanstack React Query](https://tanstack.com/query/v3/)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Netlify](https://www.netlify.com/)
+- [Air-port-codes API](https://www.air-port-codes.com/)
 
 ---
