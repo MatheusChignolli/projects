@@ -104,6 +104,8 @@ An application that provides up-to-date statistics on COVID-19 cases, both in Br
 
 ### 💻 Tech stack
 
+[Repository link](https://github.com/MatheusChignolli/covid-19)
+
 - [ReactJs](https://react.dev/)
 - [Typscript](https://www.typescriptlang.org/)
 - [Prettier](https://prettier.io/)
@@ -116,5 +118,27 @@ An application that provides up-to-date statistics on COVID-19 cases, both in Br
 - [Lodash](https://lodash.com/)
 - [Styled Components](https://styled-components.com/)
 - [Country flags](https://flagsapi.com/)
+
+---
+
+## Gorgeous Calulator
+<img width="1192" alt="Screenshot 2024-02-17 at 15 54 43" src="https://github.com/MatheusChignolli/projects/assets/42878321/1c29f139-0ef3-4fee-bb18-ca256f6952e8">
+
+### 🗒️ Description
+
+[Application link](https://calculatooooor.netlify.app/)
+
+A sleek and efficient calculator application designed for simplicity and functionality. Users can perform basic arithmetic operations with ease, making it a convenient tool for everyday calculations.
+
+### 💻 Tech stack
+
+[Repository link](https://github.com/MatheusChignolli/calculator-react-ts-vite)https://github.com/MatheusChignolli/calculator-react-ts-vite
+
+- [ReactJs](https://react.dev/)
+- [Typscript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Pnpm](https://pnpm.io/pt/)
+- [Eslint](https://eslint.org/)
+- [Sass](https://sass-lang.com/)
 
 ---
