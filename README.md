@@ -36,6 +36,41 @@ A specialized application designed to assist developers in generating various na
 
 ---
 
+## Recommendo.Online
+<img width="1194" alt="Screenshot 2024-02-17 at 12 56 18" src="https://github.com/user-attachments/assets/c1a64945-5fa5-4ba7-8bbb-b040c80de4c3">
+
+### 🗒️ Description
+
+[Application link](https://recommendo.online/)
+
+Application to help people to find the best products for what they want and with the best values and offers like as a chat application,
+
+### 💻 Tech stack
+
+Private Repository
+
+- [ReactJs](https://react.dev/)
+- [Typscript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+- [Material UI](https://mui.com/)
+- [i18next](https://www.i18next.com/)
+- [React Query](https://tanstack.com/query/v3/)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/)
+- [Github Actions](https://github.com/features/actions)
+- [Google fonts](https://fonts.google.com/)
+- [Google Analytics](https://developers.google.com/analytics?hl=pt-br)
+- [AWS](https://aws.amazon.com/pt/?nc2=h_lg)
+- [Axios](https://axios-http.com/ptbr/)
+- [Docker](https://www.docker.com/)
+- [Terraform](https://www.terraform.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [OpenAI](https://openai.com/)
+
+---
+
 ## Rick and Morty characters
 <img width="1660" alt="Screenshot 2024-02-17 at 13 45 32" src="https://github.com/MatheusChignolli/projects/assets/42878321/a36fa1e9-229c-4235-b5d6-b81cba2ab9c1">
 
