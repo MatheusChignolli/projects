@@ -36,6 +36,45 @@ A specialized application designed to assist developers in generating various na
 
 ---
 
+## Numma AI
+![Screenshot 2025-01-12 at 14 50 21](https://github.com/user-attachments/assets/9720a79d-c7ca-46f2-9542-cc47ba16fe4d)
+
+### 🗒️ Description
+
+[Application link](https://numma.ai/)
+
+An AI application specialized in transforming data into investments, managing your financial portfolio to enhance its performance, and helping you make profitable decisions.
+
+### 💻 Tech stack
+
+Private Repository
+
+- [ReactJs](https://react.dev/)
+- [Typscript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+- [Material UI](https://mui.com/)
+- [i18next](https://www.i18next.com/)
+- [Auth0](https://auth0.com/)
+- [React Hook Form](https://www.react-hook-form.com/)
+- [DayJS](https://day.js.org/)
+- [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
+- [Yup](https://github.com/jquense/yup)
+- [React Query](https://tanstack.com/query/v3/)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/)
+- [Github Actions](https://github.com/features/actions)
+- [Google fonts](https://fonts.google.com/)
+- [AWS](https://aws.amazon.com/pt/?nc2=h_lg)
+- [Axios](https://axios-http.com/ptbr/)
+- [Docker](https://www.docker.com/)
+- [Terraform](https://www.terraform.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [OpenAI](https://openai.com/)
+
+---
+
 ## Recommendo.Online
 <img width="1194" alt="Screenshot 2024-02-17 at 12 56 18" src="https://github.com/user-attachments/assets/c1a64945-5fa5-4ba7-8bbb-b040c80de4c3">
 
