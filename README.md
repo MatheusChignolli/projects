@@ -5,7 +5,7 @@ This list comprises some of the projects I have either independently developed o
 ---
 
 ## To Devs app
-<img width="1194" alt="Screenshot 2024-02-17 at 12 56 18" src="https://github.com/MatheusChignolli/projects/assets/42878321/e09912d0-73da-4faa-bd84-8dd41c7b284a">
+![Screenshot 2025-04-09 at 08 53 51](https://github.com/user-attachments/assets/6993ce8a-00fd-4686-9cc9-6c5385f75b88)
 
 ### 🗒️ Description
 
